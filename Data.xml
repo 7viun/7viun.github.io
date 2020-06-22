@@ -1,10 +1,28 @@
-<Names>
-<Name>
-    <FirstName>John</FirstName>
-    <LastName>Smith</LastName>
-</Name>
-<Name>
-    <FirstName>James</FirstName>
-    <LastName>White</LastName>
-</Name>
-</Names>
+<Phases>
+	<Phase Name="Basic Design">
+		<Revision>
+			<ID>A</ID>
+			<Issue>27/02/2012</Issue>
+			<ProjectName>Chung Cu Minh Son EZLand</ProjectName>
+			<Location>Dist9,HCM</Location>
+			<Title>Drawing List</Title>
+		</Revision>
+		<Revision>
+			<ID>B</ID>
+			<Issue>27/04/2012</Issue>
+			<ProjectName>Chung Cu Minh Son EZLand</ProjectName>
+			<Location>Dist9,HCM</Location>
+			<Title>Drawing List</Title>
+		</Revision>
+	</Phase>
+</Phases>
+	<Phase Name="Detail Design">
+		<Revision>
+			<ID>A</ID>
+			<Issue>27/06/2012</Issue>
+			<ProjectName>Chung Cu Minh Son EZLand</ProjectName>
+			<Location>Dist9,HCM</Location>
+			<Title>Drawing List</Title>
+		</Revision>
+	</Phase>
+</Phases>
