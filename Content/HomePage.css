@@ -99,7 +99,7 @@ body{
 .post img {
     float: left;
     border: 1px solid;
-    border-color: palevioletred;
+    border-color: dimgrey;
     margin: 0px 20px 0px 0px;
     max-width: 200px;
     max-height: 200px;
