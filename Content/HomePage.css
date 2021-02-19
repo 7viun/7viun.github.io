@@ -119,6 +119,7 @@ body{
 }
     .post h2 {
         font-family: "RobotoBold","Trebuchet MS","Lucida Sans Unicode",sans-serif,Arial;
+        color:black;
         font-size:35px;
         margin-top:10px;
         margin-bottom:20px;
