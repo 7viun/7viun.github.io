@@ -76,9 +76,12 @@ body{
 }
     .column.side p {
         font-family: "RobotoMedium","Trebuchet MS","Lucida Sans Unicode",sans-serif,Arial;
-        font-size: 22px;
+        font-size: 18px;
         margin-top: 20px;
         color: rgb(78,78,78);
+    }
+    .column.side a.normal {
+        text-decoration: none;
     }
 .cover-image{
     margin-top:50px;
