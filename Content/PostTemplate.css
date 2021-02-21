@@ -5,8 +5,8 @@
     border-color: dimgrey;
     margin-top: 20px;
     margin-bottom: 20px;
-    width:800px;
-    height:600px;
+    max-width:2000px;
+    max-height:2000px;
 }
 .postcontent {
     display: inline-block;
