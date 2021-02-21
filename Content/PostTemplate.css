@@ -3,11 +3,10 @@
 .postcontent img {
     border: 1px solid;
     border-color: dimgrey;
-    margin: 0px 20px 0px 0px;
-    width:1024px;
-    height:768px;
-    max-width: 2000px;
-    max-height: 2000px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:1920px;
+    height:1080px;
 }
 .postcontent {
     display: inline-block;
@@ -32,7 +31,7 @@
         margin-top: 10px;
         margin-bottom: 10px;
     }
-    .postcontent div.image {
+    .postcontent div.photos {
         display: flex;
         justify-content: center;
     }
