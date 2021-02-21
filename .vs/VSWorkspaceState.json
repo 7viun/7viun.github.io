@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Content"
+    "\\Content",
+    "\\Photos"
   ],
-  "SelectedNode": "\\Content\\HomePage.css",
+  "SelectedNode": "\\Photos\\Photo.Avatar.jpg",
   "PreviewInSolutionExplorer": false
 }

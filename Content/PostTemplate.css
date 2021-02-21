@@ -1,0 +1,32 @@
+﻿
+/*Brief of Posts*/
+.postcontent img {
+    border: 1px solid;
+    border-color: dimgrey;
+    margin: 0px 20px 0px 0px;
+    max-width: 1000px;
+    max-height: 1000px;
+}
+.postcontent {
+    display: inline-block;
+    font-family: "RobotoMedium","Trebuchet MS","Lucida Sans Unicode",sans-serif,Arial;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+    .postcontent p {
+        margin: 0;
+        color: rgb(78,78,78);
+    }
+    .postcontent h2 {
+        font-family: "RobotoBold","Trebuchet MS","Lucida Sans Unicode",sans-serif,Arial;
+        color: black;
+        font-size: 35px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .postcontent p.dtime {
+        color: darkgray;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
