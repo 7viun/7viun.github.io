@@ -5,13 +5,13 @@
     border-color: dimgrey;
     margin-top: 20px;
     margin-bottom: 20px;
-    max-width:2000px;
-    max-height:2000px;
+    width:500px;
+    height:350px;
 }
 .postcontent {
     display: inline-block;
     font-family: "RobotoMedium","Trebuchet MS","Lucida Sans Unicode",sans-serif,Arial;
-    font-size: 22px;
+    font-size: 18px;
     margin-top: 20px;
 }
 
